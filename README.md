@@ -18,4 +18,4 @@ cd Check-The-Password
 
 3. Run the script:
 
-python Check The password.py
+python Check_The_password.py
